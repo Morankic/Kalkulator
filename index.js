@@ -1,16 +1,10 @@
-
 function mnozenje (prviBroj ,drugiBroj){
     return prviBroj*drugiBroj
 }
-
-
 function sabiranje(prviBroj, drugiBroj) {
   return prviBroj + drugiBroj;
 }
-
-
-function Oduzimanje(prviBroj,drugiBroj){
-   
+function Oduzimanje(prviBroj,drugiBroj){   
     return prviBroj-drugiBroj;  
 }
 
